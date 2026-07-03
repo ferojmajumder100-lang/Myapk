@@ -1,0 +1,6 @@
+{
+  "name": "Zen Tasks",
+  "description": "A beautiful and minimalist notes and tasks tracker featuring a local Room database, elegant styling, and preconfigured GitHub actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

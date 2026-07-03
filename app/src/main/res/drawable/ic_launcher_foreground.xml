@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered elegant circle backdrop -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,24c-16.6,0 -30,13.4 -30,30s13.4,30 30,30s30,-13.4 30,-30S70.6,24 54,24z" />
+    <!-- White polished check icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49.2,64.3c-0.8,0.8 -2.1,0.8 -2.8,0l-10.2,-10.2c-0.8,-0.8 -0.8,-2.1 0,-2.8s2.1,-0.8 2.8,0l8.8,8.8l17.6,-17.6c0.8,-0.8 2.1,-0.8 2.8,0s0,2.1 -2.8,2.8L49.2,64.3z" />
+</vector>
